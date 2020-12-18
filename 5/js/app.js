@@ -8,3 +8,5 @@ for (var i = 0; i < 6; i++) {
     array.push(numero)
   }
 }
+
+console.log(array);
